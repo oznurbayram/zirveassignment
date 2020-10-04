@@ -1,0 +1,42 @@
+.main-menu-series {
+    width: 130px;
+    height: 176px;
+    background-color: black;
+    text-align: center;
+    margin-right: 10px;
+}
+.left, .right{
+    float: left;
+}
+.main-menu-movies {
+    width: 130px;
+    height: 176px;
+    background-color: black;
+    text-align: center;
+}
+.main-series , .main-movies {
+    color:white;
+    font-weight: bold;
+    font-size: 30px;
+}
+.href {
+    padding-top: 75px;
+}
+.list-item {
+    float: left;
+    margin-right: 15px;
+    margin-bottom: 40px;
+    width: 130px;
+    height: 176px;
+}
+.image {
+    width: 130px;
+    height: 176px;
+}
+.panel-heading {
+    background-color: black !important;
+}
+.panel-title {
+    font-weight: bold;
+    font-size: 30px;
+}
